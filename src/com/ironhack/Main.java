@@ -6,25 +6,7 @@ import java.util.List;
 public class Main {
 
     public static void main(String[] args) {
-        /*AndroidPlayer androidPlayer = new AndroidPlayer(20);
-
-        androidPlayer.play();
-        androidPlayer.pause();
-        androidPlayer.mute();
-        System.out.println("Volume: " + androidPlayer.getVolume());
-        androidPlayer.increaseVolume(10);
-        androidPlayer.changeBrightness(30);
-        androidPlayer.changeContrast(10);
-
-        ApplePlayer AP = new ApplePlayer();
-        AP.play();
-        AP.pause();
-        AP.mute();
-        System.out.println("Volume: " + AP.getVolume());
-        AP.increaseVolume(20);
-        AP.changeBrightness(15);
-        AP.changeContrast(24);
-        */
+       
 
 
         Date date1 = new Date();
